@@ -1,0 +1,1 @@
+schtasks /create /sc hourly /mo 1 /tn "MTMBoxFilesTask" /tr "File Path Of MTMbox.bat"
