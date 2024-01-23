@@ -1,0 +1,12 @@
+#!/bin/bash
+
+while true; do
+
+    # file location
+    cp -r /path/to/source/ /path/to/target
+    
+    #time in sec
+    sleep 3600
+ 
+done
+
